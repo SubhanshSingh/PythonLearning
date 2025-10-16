@@ -1,4 +1,4 @@
 # PythonLearning
 Testing Python programs
 
-This project is getting changed from my local machine 
+This project is now changed from Github
